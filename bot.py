@@ -6,7 +6,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 
 # Конфигурация
-TOKEN = '7806602969:AAFCUren6m39RNmPdftALJiWYGi-_a8WXyU'
+TOKEN = '7324015056:AAEYaZePzfASUY7xNPCMViCxfAzHpiJO01A'
 ADMIN_ID = 7455246670
 GROUP_ID = -1002535726838
 
